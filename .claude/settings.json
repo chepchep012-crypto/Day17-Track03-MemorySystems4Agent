@@ -1,0 +1,8 @@
+{
+  "permissions": {
+    "allow": [
+      "PowerShell(cd \"c:\\\\Users\\\\Admin\\\\Day17-Track03-MemorySystems4Agent\\\\src\"; $env:PYTHONIOENCODING=\"utf-8\"; python test_agents.py 2>&1)",
+      "PowerShell(cd \"c:\\\\Users\\\\Admin\\\\Day17-Track03-MemorySystems4Agent\\\\src\"; $env:PYTHONIOENCODING=\"utf-8\"; python benchmark.py 2>&1)"
+    ]
+  }
+}
